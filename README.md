@@ -14,3 +14,12 @@ Overview:
   2.1 Re-classify benchmark [0,2] and predicted [1,2] FIM
   2.2 Generate a match classification raster (TP,  TN,  FP,  FN)
   2.3 Calculate evaluation metrics (CSI, TPR, FAR, F1, ACC)
+
+
+Demo Data:
+Case study: Neuse River near Goldsboro NC - Hurricane Matthew, October 2016
+ArcGIS Geodatabase files:
+1. ModelEvalWorkshop_Workspace.gdb.zip - input data as well as satellite imagery of the flood.]
+2. ModelEvalWorkshop_Workspace_Outputs.gdb.zip - output raster for comparison
+
+Download from: [Here](https://alabama.box.com/s/qdvpqrxx8m3nn6i4mdrh8m00uaugcr72).
