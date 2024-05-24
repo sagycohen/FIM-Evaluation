@@ -1,7 +1,7 @@
 # FIMevaluation
 Framework for the evaluation of Flood Inundation Map (FIM) using a remote sensing derived benchmark FIM. The framework includes preprocessing of the benchmark layer and calculation of evaluation metrics.
 
-Two ArcGIS Pro Notebooks (using ArcPy).
+## Two ArcGIS Pro Notebooks (using ArcPy).
 Overview:
 1. Pre-processing Benchmark FIM (FIMGapFiller_BenchmarkProcessing.ipynb):
   1.1 Remove small ‘flooding’ clusters
@@ -16,8 +16,8 @@ Overview:
   2.3 Calculate evaluation metrics (CSI, TPR, FAR, F1, ACC)
 
 
-Demo Data:
-Case study: Neuse River near Goldsboro NC - Hurricane Matthew, October 2016
+# Demo Data:
+## Case study: Neuse River near Goldsboro NC - Hurricane Matthew, October 2016
 ArcGIS Geodatabase files:
 1. ModelEvalWorkshop_Workspace.gdb.zip - input data as well as satellite imagery of the flood.]
 2. ModelEvalWorkshop_Workspace_Outputs.gdb.zip - output raster for comparison
